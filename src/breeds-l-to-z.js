@@ -8,7 +8,7 @@ export const breedsLToZ = [
     name: 'Leicester Longwool'
   },
   {
-    code: 'LLE',
+    code: 'LLY',
     name: 'Lleyn'
   },
   {
