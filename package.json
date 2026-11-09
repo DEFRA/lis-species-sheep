@@ -32,20 +32,20 @@
   "author": "Defra DDTS",
   "license": "OGL-UK-3.0",
   "dependencies": {
-    "eslint-plugin-jsdoc": "^63.0.8",
+    "eslint-plugin-jsdoc": "^65.4.4",
     "eslint-plugin-sonarjs": "^4.1.0",
     "neostandard": "0.13.0",
     "convict": "6.2.5",
     "convict-format-with-validator": "6.2.0"
   },
   "peerDependencies": {
-    "eslint": "^9.0.0"
+    "eslint": "^10.14.0"
   },
   "devDependencies": {
     "@defra/lis-infra-eslint-config": "^0.6.0",
     "@vitest/coverage-istanbul": "^4.1.10",
     "audit-ci": "^7.1.0",
-    "eslint": "^9.0.0",
+    "eslint": "^10.14.0",
     "husky": "^9.1.7",
     "prettier": "^3.9.6",
     "vitest": "^4.1.10"
