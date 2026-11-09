@@ -33,8 +33,8 @@
   "license": "OGL-UK-3.0",
   "dependencies": {
     "eslint-plugin-jsdoc": "^63.0.8",
-    "eslint-plugin-sonarjs": "^4.1.0",
-    "neostandard": "0.13.0",
+    "eslint-plugin-sonarjs": "^4.2.2",
+    "neostandard": "0.14.1",
     "convict": "6.2.5",
     "convict-format-with-validator": "6.2.0"
   },
@@ -47,7 +47,7 @@
     "audit-ci": "^7.1.0",
     "eslint": "^9.0.0",
     "husky": "^9.1.7",
-    "prettier": "^3.9.6",
+    "prettier": "^3.9.10",
     "vitest": "^4.1.10"
   }
 }
